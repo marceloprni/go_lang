@@ -1,0 +1,5 @@
+precisa criar o mod
+
+exemplo abaixo
+
+got mod init github.com/marceloprni/quiz-go

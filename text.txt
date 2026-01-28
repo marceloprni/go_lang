@@ -1,0 +1,5 @@
+go build -o hello - criar um binario
+
+
+go mod init github.com/` nome do git`/ - export a função que esta dentro da pasta meet, isto e um modulo.
+
